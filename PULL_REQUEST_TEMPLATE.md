@@ -28,4 +28,7 @@ If applicable, add screenshots to help explain your problem.
 **Additional context**
 Add any other context about the problem here.
 
+**Fix Explanation**  
+Add any explanation around the fix
+
 **Email it to ashwinramki At gmail dOt com**
