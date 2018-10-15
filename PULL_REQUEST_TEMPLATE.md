@@ -14,21 +14,21 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Expected behavior**  
+A clear and concise description of what you expected to happen.  
 
-**Screenshots**
+**Screenshots**  
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
+**Desktop (please complete the following information):**  
  - OS: [e.g. Ubuntu] 
  - OS release version 
  - Bash version
 
-**Additional context**
-Add any other context about the problem here.
+**Additional context**  
+Add any other context about the problem here.  
 
-**Fix Explanation**  
-Add any explanation around the fix
+**Fix Explanation**   
+Add any explanation around the fix  
 
 **Email it to ashwinramki At gmail dOt com**
